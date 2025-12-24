@@ -2,7 +2,10 @@ Task2
 
 Deploy a web service using Docker, Docker Compose, and systemd.
 
- Tasks Implemented
+ Tasks Implemented:
+
+
+ 
 1️⃣ Dockerfile
 
 Custom NGINX image with modified index.html
